@@ -131,6 +131,6 @@ STATIC_ROOT = os.path.join(BASE_DIR,"images")
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-KEY = "rzp_test_imMPISw5bJUeRv"
+KEY = "" #add here your KEY ID of Razor Pay
 
-SECRET_KEY = "Db1we25F9XKGaQeHvuVrWYik"
+SECRET_KEY = "" #add here your secret key  -  Razor PAY
