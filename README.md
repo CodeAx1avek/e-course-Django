@@ -33,9 +33,9 @@ Make sure you have the following installed:
    python manage.py runserver
 
 Usage
-To make the most of our application:
+-To make the most of our application:
 
-    Navigate to the course enrollment section.
-    Experience the user-friendly interface for a smooth enrollment process.
-    Utilize the Razorpay integration for secure and hassle-free payments.
-    Take advantage of the coupon code feature for exclusive discounts on course subscriptions.
+Navigate to the course enrollment section.
+Experience the user-friendly interface for a smooth enrollment process.
+Utilize the Razorpay integration for secure and hassle-free payments.
+Take advantage of the coupon code feature for exclusive discounts on course subscriptions.
