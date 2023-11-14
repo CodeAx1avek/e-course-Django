@@ -19,6 +19,8 @@ Make sure you have the following installed:
 - [Python](https://www.python.org/) (version X.X)
 - [Django](https://www.djangoproject.com/) (version X.X)
 
+### Make Sure you enter your razor pay key_id and secret key in Project/Settings.py in the last line of Variable to Run Your Payment section.
+
 ### Installation
 
 1. Clone the repository:
