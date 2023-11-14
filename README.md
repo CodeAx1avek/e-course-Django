@@ -32,8 +32,9 @@ Make sure you have the following installed:
 
    python manage.py runserver
 
-Usage
--To make the most of our application:
+##Usage
+
+To make the most of our application:
 
 Navigate to the course enrollment section.
 Experience the user-friendly interface for a smooth enrollment process.
