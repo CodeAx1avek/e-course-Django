@@ -34,11 +34,22 @@ Make sure you have the following installed:
 
    python manage.py runserver
 
-##Usage
 
-To make the most of our application:
+## Admin Panel
 
-Navigate to the course enrollment section.
-Experience the user-friendly interface for a smooth enrollment process.
-Utilize the Razorpay integration for secure and hassle-free payments.
-Take advantage of the coupon code feature for exclusive discounts on course subscriptions.
+For accessing admin panel  url /admin -
+
+Username - `avek`
+
+Password - `sachin`
+
+
+
+
+## Adding Your Admin Userid and password
+
+- Open Terminal
+- Type - python manage.py runserver createsuperuser
+- enter your email,username and password
+- Done
+
